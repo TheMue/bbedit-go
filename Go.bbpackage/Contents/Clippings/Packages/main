@@ -1,7 +1,0 @@
-package main
-
-import "fmt"
-
-func main() {
-	#SELSTART#fmt.Println("Hello BBEdit")#SELEND#
-}

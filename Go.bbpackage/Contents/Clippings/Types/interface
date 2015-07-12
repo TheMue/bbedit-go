@@ -1,3 +1,0 @@
-#INDENT#interface {
-	#PLACEHOLDERSTART#MethodName#PLACEHOLDEREND# (<#* parameters #>) <#* ReturnType #>
-}

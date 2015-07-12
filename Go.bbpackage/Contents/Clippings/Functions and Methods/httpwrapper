@@ -1,7 +1,0 @@
-#INDENT#func #SELECTIONORPLACEHOLDER Name#(h http.Handler, <#* parameters #>) http.Handler {
-	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
-		// Before...
-		h.ServeHTTP(w, r)
-		// ...After
-	})
-}

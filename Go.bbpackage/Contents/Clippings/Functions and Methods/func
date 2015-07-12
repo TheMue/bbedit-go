@@ -1,3 +1,0 @@
-#INDENT#func #SELECTIONORPLACEHOLDER Name#(<#* parameters #>) <#* ReturnType #> {
-	#PLACEHOLDERSTART#body#PLACEHOLDEREND#
-}
