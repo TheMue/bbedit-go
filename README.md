@@ -48,6 +48,10 @@ script menu.
 
 ## Changelog
 
+### 2015-07-16 - Version 0.4.1
+
+* Little fix when parsing output for the result browser
+
 ### 2015-07-12 - Version 0.4.0
 
 * Switched from multiple menu entries to one Go Tool
