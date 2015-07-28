@@ -48,6 +48,10 @@ script menu.
 
 ## Changelog
 
+### 2015-07-28 - Version 0.5.0
+
+* Internal reorganisation to prepare application scripts
+
 ### 2015-07-16 - Version 0.4.1
 
 * Little fix when parsing output for the result browser
