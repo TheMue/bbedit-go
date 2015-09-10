@@ -48,6 +48,13 @@ script menu.
 
 ## Changelog
 
+### 2015-09-10 - Version 0.6.0
+
+* Discovered that long raw strings are handled bad due to stack overflow,
+  so changed pattern
+* Added registry search via go-search.org
+* Made tests verbose
+
 ### 2015-07-28 - Version 0.5.0
 
 * Internal reorganisation to prepare application scripts
