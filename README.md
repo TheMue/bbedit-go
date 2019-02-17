@@ -1,12 +1,10 @@
 # BBEdit Go Language Module
 
-The *Go Language Module* introduces helpful features for the Go programming language 
-to BBEdit 11 and higher. It has initially been inspired by Andrew Carters package
-(see https://github.com/ascarter/Go.bbpackage), thanks for it. I'm trying to create
-a convenient and powerful tool and also improve my own knowledge of AppleScript
-programming for automation and macros.
+The *Go Language Module* introduces helpful features for the Go programming language
+to BBEdit 12 and higher. I'm trying to create a convenient and powerful tool and also
+improve my own knowledge of AppleScript programming for automation and macros.
 
-The current status is *WiP* and early *Alpha*.
+The current status is *WiP*.
 
 ## Features
 
@@ -39,13 +37,13 @@ The current status is *WiP* and early *Alpha*.
 Clone the repository:
 
 ```
-git clone https://github.com/TheMue/bbedit-get.git
+git clone https://github.com/themue/bbgo.git
 ```
 
-Copy the contained `Go.bbpackage` into
+Copy the contained `BBGo.bbpackage` into
 
 ```
 ~/Library/Application Support/BBEdit/Packages
 ```
 
-Optimally bind `Ctrl-Shift-M` to the *Go Tool* in the script menu.
+For convenience bind `Ctrl-Shift-M` to the *Go Tool* in the script menu.
