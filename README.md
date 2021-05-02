@@ -4,34 +4,34 @@ The *Go Language Module* introduces helpful features for the Go programming lang
 to BBEdit 12 and higher. I'm trying to create a convenient and powerful tool and also
 improve my own knowledge of AppleScript programming for automation and macros.
 
-Version is v2.0.
+Version is v2.0 beta 1.
 
 ## Features
 
-- Full language syntax highlighting
-- Go Tool able to
-  - Find function definition
-  - Format
-  - Build
-  - Install
-  - Run
-  - Shell
-  - Clean
-  - Test
-  - Test the function at the cursor position
-  - Test with coverage and race detection
-  - Benchmark
-  - Benchmark the function at the cursor position
-  - Init module
-  - Tidy modules
-  - Download modules
-  - Verify dependencies
-  - Fix
-  - Vet
-  - List
-  - Environment
-  - Document package
-- Clippings (not yet completed)
+The tool is able to
+
+- Format
+- Build
+- Build tests
+- Run tests
+- Run current test function
+- Run test coverage
+- Run race tests
+- Run benchmark tests
+- Run current benchmark function
+- Run
+- Install
+- Clean
+- Init module
+- Download modules
+- Tidy modules
+- Verify module dependencies
+- Fix
+- Vet
+- Lint
+- List
+- Environment
+- Document package
 
 ## Installation
 
