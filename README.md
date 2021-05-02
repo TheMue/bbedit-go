@@ -13,10 +13,8 @@ The tool is able to
 - Format
 - Build
 - Build tests
-- Run tests
+- Run tests with coverage and race
 - Run current test function
-- Run test coverage
-- Run race tests
 - Run benchmark tests
 - Run current benchmark function
 - Run
