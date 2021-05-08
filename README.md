@@ -4,7 +4,7 @@ The *Go Language Module* introduces helpful features for the Go programming lang
 to BBEdit 12 and higher. I'm trying to create a convenient and powerful tool and also
 improve my own knowledge of AppleScript programming for automation and macros.
 
-Version is v2.0 beta 1.
+Version is v2.0 beta 2.
 
 ## Features
 
@@ -29,7 +29,6 @@ The tool is able to
 - Lint
 - List
 - Environment
-- Document package
 
 ## Installation
 
@@ -39,10 +38,12 @@ Clone the repository:
 git clone https://github.com/themue/bbgo.git
 ```
 
-Copy the contained `BBGoV2.scpt` into
+Copy the contained `BBGo.bbpackage` into
 
 ```
-~/Library/Application Support/BBEdit/Scripts
+~/Library/Application Support/BBEdit/Packages
 ```
 
-For convenience bind `<Ctrl>-<Shift>-G` to *BBGoV2* in the script menu.
+For convenience you then ken bin shortcuts to the new individual menu
+entries below *Scripts > BBGo*
+
