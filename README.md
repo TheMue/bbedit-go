@@ -44,6 +44,6 @@ Copy the contained `BBGo.bbpackage` into
 ~/Library/Application Support/BBEdit/Packages
 ```
 
-For convenience you then ken bin shortcuts to the new individual menu
+For convenience you then can bind shortcuts to the new individual menu
 entries below *Scripts > BBGo*
 
